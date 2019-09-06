@@ -1,0 +1,13 @@
+.card {
+  margin-top: 20px;
+}
+
+.card__image {
+  width: 70px;
+}
+
+.card__title {
+  margin-bottom: 0;
+  font-family: 'Comic Sans MS';
+  color: blue;
+}
